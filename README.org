@@ -1,7 +1,7 @@
 * About
-This is the supplementary code (in Julia) for the paper Ahemt
-Alacaoglu and Yura Malitsky "Stochastic Variance Reduction for
-Variational Inequality Methods"
+This is the supplementary code (in Julia) for the paper "Stochastic Variance Reduction for
+Variational Inequality Methods" by Ahmet
+Alacaoglu and Yura Malitsky.
 
 
 * Usage
