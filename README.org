@@ -5,10 +5,8 @@ Variational Inequality Methods"
 
 
 * Usage
-Just open `Matrix Games` Jupyter notebook.
+Just open =Matrix Games= Jupyter notebook.
 
 
 * Reference
   If you find this code useful, please cite our paper:
-#+commentBEGIN_SRC
-#+END_SRC
