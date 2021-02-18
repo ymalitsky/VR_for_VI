@@ -1,8 +1,6 @@
 * About
-This is the supplementary code (in Julia) for the paper Ahemt
-Alacaoglu and Yura Malitsky "Stochastic Variance Reduction for
-Variational Inequality Methods"
-
+This is the supplementary code (in Julia) for the paper Ahmet
+Alacaoglu and Yura Malitsky [[http://arxiv.org/abs/2102.08352]["Stochastic Variance Reduction for Variational Inequality Methods"]]
 
 * Usage
 Just open =Matrix Games= Jupyter notebook.
@@ -10,3 +8,11 @@ Just open =Matrix Games= Jupyter notebook.
 
 * Reference
   If you find this code useful, please cite our paper:
+#+BEGIN_SRC
+@article{alacaoglu2021stochastic,
+  title={Stochastic Variance Reduction for Variational Inequality Methods},
+  author={Alacaoglu, Ahmet and Malitsky, Yura},
+  journal={arXiv:2102.08352},
+  year={2021}
+}
+#+END_SRC
