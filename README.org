@@ -1,6 +1,7 @@
 * About
-This is the supplementary code (in Julia) for the paper Ahmet
-Alacaoglu and Yura Malitsky [[http://arxiv.org/abs/2102.08352]["Stochastic Variance Reduction for Variational Inequality Methods"]]
+This is the supplementary code (in Julia) for the paper "Stochastic
+Variance Reduction for Variational Inequality Methods" by Ahmet
+Alacaoglu and Yura Malitsky.
 
 * Usage
 Just open =Matrix Games= Jupyter notebook.
